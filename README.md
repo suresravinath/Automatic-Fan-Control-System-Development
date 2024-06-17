@@ -1,1 +1,2 @@
-![image](https://github.com/suresravinath/Automatic-Fan-Control-System-Development/assets/118838341/809883ec-f93e-4d24-93cc-17f88617cad9)
+
+![Screenshot (141)](https://github.com/suresravinath/Automatic-Fan-Control-System-Development/assets/118838341/df8dbc6e-1505-45fb-a745-3588ca1df07e)
