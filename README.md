@@ -1,6 +1,7 @@
 # Temperature Sensor and Fan Control System
 
 This project is designed to read temperature sensor values and control a fan using a graphical user interface (GUI). The system supports two modes of operation: Auto mode and Manual mode. 
+![Screenshot (141)](https://github.com/suresravinath/Automatic-Fan-Control-System-Development/assets/118838341/df8dbc6e-1505-45fb-a745-3588ca1df07e)
 
 ## Features
 
@@ -26,12 +27,6 @@ This project is designed to read temperature sensor values and control a fan usi
 6. **Log File Creation:**
    - Create a log file to store sensor data, fan status, and GUI mode.
    - The log file can be in CSV or Excel format.
+     
+![Screenshot (142)](https://github.com/suresravinath/Automatic-Fan-Control-System-Development/assets/118838341/db1ab84f-0b5f-4443-8337-49a0d6660cb5)
 
-## Installation
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/temperature-fan-control.git
-   cd temperature-fan-control
-
-![Screenshot (141)](https://github.com/suresravinath/Automatic-Fan-Control-System-Development/assets/118838341/df8dbc6e-1505-45fb-a745-3588ca1df07e)
